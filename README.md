@@ -21,7 +21,7 @@ A modular, terminal-based password hash cracking tool written in Python. Built f
 ## Installation
 
 ```bash
-git clone https://github.com/youruser/hashcrack.git
+git clone https://github.com/vignesh3030-hub/-HashCrack.git
 cd hashcrack
 pip install -r requirements.txt
 chmod +x hashcrack.py
