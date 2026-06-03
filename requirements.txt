@@ -1,0 +1,6 @@
+# HashCrack dependencies
+# All core modules use Python stdlib only
+# No external packages required for basic operation
+
+# Optional: for bcrypt/scrypt/argon2 hash support
+# passlib[bcrypt]
